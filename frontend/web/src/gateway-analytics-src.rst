@@ -1,0 +1,4 @@
+// Auto-generated file: /Users/kevinguoquan/Desktop/zama备用文件/测试/Zama项目/energymart_z/frontend/web/src/gateway-analytics-src.rst
+// Generated at: 2025-11-27T15:10:54.349Z
+
+
